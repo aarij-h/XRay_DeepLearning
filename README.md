@@ -25,12 +25,6 @@ The performance of our model is evaluated by comparing the AUC scores obtained i
     <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="300">
 </p>
 
-![megaly](https://github.com/user-attachments/assets/600b5d09-a989-4d93-91a4-65dbaaa652d9)
-![atel](https://github.com/user-attachments/assets/5166ee17-b472-4056-b982-6327a75870c6)
-![effus](https://github.com/user-attachments/assets/adcd9152-e3a9-44c7-826f-589c272005bd)
-
-![consol](https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5)
-![edme](https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202)
 
 Condition	AUC| (Our Model)|	AUC (Original Paper)| Difference 
 --- | --- | --- | --- 
