@@ -5,17 +5,19 @@ This repository focuses on a medical image classification project aimed at diagn
 Dataset Used:
 The dataset used in this research was sourced from a well-known repository of medical imaging studies. Due to its large size and complexity, it provides a robust platform for evaluating the capabilities of modern deep learning techniques in healthcare.
 
-# Environment 
+# Required Environment
 
-- Python 3.6+
+- Python 
 - NumPy
-- PyTorch 1.7.1
+- PyTorch 
 - Matplotlib
+- SkLearn
 - GPU environment
 
 # Results
 
-The performance of our model is evaluated by comparing the AUC scores obtained in our experiments against those reported in the original paper. Below is a summary of the results:
+The performance of our model is evaluated by comparing the AUC scores obtained in our experiments against those reported in the original paper. Below is a summary of the results:  
+
 
 <p align="center">
     <img src="https://github.com/user-attachments/assets/600b5d09-a989-4d93-91a4-65dbaaa652d9" alt="ROC Curve 1" width="180">
@@ -23,7 +25,8 @@ The performance of our model is evaluated by comparing the AUC scores obtained i
     <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 3" width="185">
     <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 4" width="185">
     <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="190">
-</p>
+</p>  
+
 
 
 Condition	AUC| (Our Model)|	AUC (Original Paper)| Difference 
@@ -33,7 +36,8 @@ Edema| 0.90|	0.92|  -0.02
 Pleural Effusion| 	0.93|	0.97|  -0.04
 Cardiomegaly| 	0.93|	0.90|  +0.03
 Atelectasis| 	0.82|	0.85|  -0.03
-Average AUC|  0.86|  0.91|  -0.05
+Average AUC|  0.86|  0.91|  -0.05  
+
 
 
 Our model performs closely to the baseline results reported in the original paper, with only some deviation. This shows that we have room for improvement, perhaps deploying certain strategies mention in the report may help. For detailed analysis and visualizations (e.g., ROC curves), please refer to the accompanying report in the repository.
