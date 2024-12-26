@@ -3,7 +3,7 @@
 This repository focuses on a medical image classification project aimed at diagnosing conditions based on chest X-rays. Using advanced deep learning techniques, we implemented a DenseNet121 model, along with federated learning approaches, to train and evaluate performance on a large-scale medical dataset. For detailed insights and results, refer to the project report included in this repository.
 
 Dataset Used:
-The dataset used in this research was sourced from a well-known repository of medical imaging studies. Due to its large size and complexity, it provides a robust platform for evaluating the capabilities of modern deep learning techniques in healthcare.
+The dataset used in this research was sourced from a well-known repository of medical imaging studies (CheXpert). Due to its large size and complexity, it provides a robust platform for evaluating the capabilities of modern deep learning techniques in healthcare.
 
 # Required Environment
 
@@ -44,5 +44,5 @@ Our model performs closely to the baseline results reported in the original pape
 
 # References 
 
-- Communication-Efficient Learning of Deep Networks from Decentralized Data, McMahan et al., 2017
-- CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison, Irvin et al., 20
+[1] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison, Irvin et al., 20
+[2] Communication-Efficient Learning of Deep Networks from Decentralized Data, McMahan et al., 2017
