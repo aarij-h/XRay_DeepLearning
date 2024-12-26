@@ -16,7 +16,7 @@ The dataset used in this research was sourced from a well-known repository of me
 
 # Results
 
-The performance of our model is evaluated by comparing the AUC scores obtained in our experiments against those reported in the original paper. Below is a summary of the results:  
+The performance of our model is evaluated by comparing the AUC scores obtained in our experiments against those reported in the original paper. Below is a summary of the results: <br><br>
 
 
 <p align="center">
