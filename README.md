@@ -47,4 +47,5 @@ Our model performs closely to the baseline results reported in the original pape
 # References 
 
 [1] CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison, Irvin et al., 20
+
 [2] Communication-Efficient Learning of Deep Networks from Decentralized Data, McMahan et al., 2017
