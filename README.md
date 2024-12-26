@@ -1,6 +1,8 @@
 # X-Ray analysis using deep learning
 
-This repository focuses on a medical image classification project aimed at diagnosing conditions based on chest X-rays. Using advanced deep learning techniques, we implemented a DenseNet121 model, along with federated learning approaches, to train and evaluate performance on a large-scale medical dataset. For detailed insights and results, refer to the project report included in this repository.
+This repository focuses on a medical image classification project aimed at diagnosing conditions based on chest X-rays. Using advanced deep learning techniques, we implemented a DenseNet121 model, along with federated learning approaches, to train and evaluate performance on a large-scale medical dataset. 
+
+**For detailed insights and results, refer to the project report included in this repository.**
 
 Dataset Used:
 The dataset used in this research was sourced from a well-known repository of medical imaging studies (CheXpert). Due to its large size and complexity, it provides a robust platform for evaluating the capabilities of modern deep learning techniques in healthcare.
