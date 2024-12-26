@@ -18,11 +18,11 @@ The dataset used in this research was sourced from a well-known repository of me
 The performance of our model is evaluated by comparing the AUC scores obtained in our experiments against those reported in the original paper. Below is a summary of the results:
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/600b5d09-a989-4d93-91a4-65dbaaa652d9" alt="ROC Curve 1" width="100">
-    <img src="https://github.com/user-attachments/assets/5166ee17-b472-4056-b982-6327a75870c6" alt="ROC Curve 2" width="100">
-    <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 3" width="100">
-    <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 4" width="100">
-    <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="100">
+    <img src="https://github.com/user-attachments/assets/600b5d09-a989-4d93-91a4-65dbaaa652d9" alt="ROC Curve 1" width="200">
+    <img src="https://github.com/user-attachments/assets/5166ee17-b472-4056-b982-6327a75870c6" alt="ROC Curve 2" width="200">
+    <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 3" width="200">
+    <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 4" width="200">
+    <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="200">
 </p>
 
 
