@@ -17,6 +17,7 @@ The dataset used in this research was sourced from a well-known repository of me
 
 The performance of our model is evaluated by comparing the AUC scores obtained in our experiments against those reported in the original paper. Below is a summary of the results:
 
+
 Condition	AUC| (Our Model)|	AUC (Original Paper)| Difference 
 --- | --- | --- | --- 
 Consolidation|	0.75| 0.90| -0.15
@@ -25,6 +26,7 @@ Pleural Effusion| 	0.93|	0.97|  -0.04
 Cardiomegaly| 	0.93|	0.90|  +0.03
 Atelectasis| 	0.82|	0.85|  -0.03
 Average AUC|  0.86|  0.91|  -0.05
+
 
 Our model performs closely to the baseline results reported in the original paper, with only some deviation. This shows that we have room for improvement, perhaps deploying certain strategies mention in the report may help. For detailed analysis and visualizations (e.g., ROC curves), please refer to the accompanying report in the repository.
 
