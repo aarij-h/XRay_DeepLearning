@@ -22,7 +22,7 @@ The performance of our model is evaluated by comparing the AUC scores obtained i
     <img src="https://github.com/user-attachments/assets/5166ee17-b472-4056-b982-6327a75870c6" alt="ROC Curve 2" width="180">
     <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 3" width="185">
     <img src="https://github.com/user-attachments/assets/e3f611a1-277a-49ad-970f-743c86a75ec5" alt="ROC Curve 4" width="185">
-    <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="185">
+    <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="190">
 </p>
 
 
