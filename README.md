@@ -27,7 +27,7 @@ The performance of our model is evaluated by comparing the AUC scores obtained i
     <img src="https://github.com/user-attachments/assets/6b16c861-4168-46bd-bbd2-dbd816d43202" alt="ROC Curve 4" width="190">
 </p>  
 
-
+<br><br>
 
 Condition	AUC| (Our Model)|	AUC (Original Paper)| Difference 
 --- | --- | --- | --- 
@@ -38,7 +38,7 @@ Cardiomegaly| 	0.93|	0.90|  +0.03
 Atelectasis| 	0.82|	0.85|  -0.03
 Average AUC|  0.86|  0.91|  -0.05  
 
-
+<br><br>
 
 Our model performs closely to the baseline results reported in the original paper, with only some deviation. This shows that we have room for improvement, perhaps deploying certain strategies mention in the report may help. For detailed analysis and visualizations (e.g., ROC curves), please refer to the accompanying report in the repository.
 
